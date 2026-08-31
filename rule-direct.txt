@@ -3,3 +3,4 @@ payload:
   - '+.acofork.com'
   - '+.itdog.cn'
   - '+.littleskin.cn'
+  - '+.edu.cn'
