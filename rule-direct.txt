@@ -4,3 +4,4 @@ payload:
   - '+.itdog.cn'
   - '+.littleskin.cn'
   - '+.edu.cn'
+  - '116.211.128.151'
