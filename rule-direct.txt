@@ -1,5 +1,4 @@
 payload:
-  - '+.meali.top'
   - '+.acofork.com'
   - '+.itdog.cn'
   - '+.littleskin.cn'
